@@ -1,7 +1,9 @@
 print("Hello, AI & ML Internship - Day 2")
+
 # Input Function,Varaibales,DataTypes
 name = input("Enter your name: ")
 print("Hello, " + name)
+
 # If-else statements.
 age = int(input("Enter your age: "))
 if age < 18:
