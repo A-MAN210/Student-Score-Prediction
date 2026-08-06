@@ -168,9 +168,9 @@ Through this project I learned:
 
 AI & ML Intern
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/A-MAN210/Student-Score-Prediction
 
-LinkedIn: https://linkedin.com/in/YourLinkedIn
+LinkedIn: https://www.linkedin.com/in/aman-kumawat210/
 
 ---
 
